@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "lib": [
+      "es6"
+    ],
+    "module": "commonjs",
+    "noImplicitAny": true,
+    "outDir": "lib",
+    "removeComments": true,
+    "rootDir": "src",
+    "strict": true
+  },
+  "exclude": [
+    "_reference/"
+  ]
+}
